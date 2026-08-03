@@ -50,11 +50,11 @@ subprojects {
 
     cloudstream {
         setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/helal-c/Redowan-CloudStream")
-        authors = listOf("Redowan")
+        authors = listOf("Helal")
     }
 
     android {
-        namespace = "com.Redowan"
+        namespace = "com.helal"
         compileSdk = 36
 
         defaultConfig {
