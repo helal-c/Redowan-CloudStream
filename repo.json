@@ -1,6 +1,6 @@
 {
-    "name": "Redowan's BDIX repository",
-    "description": "Redowan's BDIX repository",
+    "name": "BDIX repository",
+    "description": "BDIX repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/helal-c/Redowan-CloudStream/master/builds/plugins.json"
